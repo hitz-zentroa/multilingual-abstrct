@@ -25,3 +25,17 @@ Inside `ES/FR/IT` folder:
       - `postprocessed` - merged English and Spanish train and dev sets
       
   - `argument_relations` (Only English and Spanish (deepl))
+
+
+## Citation
+
+````bibtex
+@misc{yeginbergen2024crosslingual,
+      title={Cross-lingual Argument Mining in the Medical Domain}, 
+      author={Anar Yeginbergen and Rodrigo Agerri},
+      year={2024},
+      eprint={2301.10527},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+````
